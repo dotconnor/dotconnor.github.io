@@ -1,5 +1,3 @@
----
----
 @import url('https://unpkg.com/primer/build/build.css');
 @import 'highlight-syntax';
 
@@ -46,4 +44,7 @@
 
 .social:not(:last-child) {
   margin-right: 16px;
+}
+.min-height-full {
+  min-height: 100vh;
 }
