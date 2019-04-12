@@ -23,9 +23,9 @@ projects:
   #   - stars
   limit: 9
   exclude:
-    forks: false
+    forks: true
     projects:
-    - dotconnor.github.io
+      - dotconnor.github.io
 
 social_media:
   # behance: your_username
